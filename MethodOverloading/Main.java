@@ -48,3 +48,4 @@ public class Main
 
 // if foo-float is commented
 // CTE - no suitable method found
+// Java cannot perform lossy conversion implicitly
