@@ -1,3 +1,6 @@
+// If no constructor is provided by user, then default constructor is provided by compiler
+// Constructor has same name as class name and no return value
+
 class MyClass {
     // Making constructor private allows its object creation only from within the class
     private MyClass() {
