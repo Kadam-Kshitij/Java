@@ -3,7 +3,7 @@
 // 2) Number of parameters
 // different return value cannot be used for method overloading
 
-public class Main
+public class Promotion
 {
     static void foo( int i )
     {
