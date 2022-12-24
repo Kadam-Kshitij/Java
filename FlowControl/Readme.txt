@@ -3,9 +3,9 @@ Supported flow control -->
 2) while
 3) do while
 4) for
-5) for each
+5) for each - for( int i : arr )
 6) break
-7) continue ()
+7) continue
 8) switch case
 
 All syntax are same as C++
